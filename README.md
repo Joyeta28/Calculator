@@ -1,39 +1,42 @@
 📱 Calculator Application
-A simple yet elegant graphical calculator built with Java Swing. This calculator supports essential arithmetic operations, along with extra features to make your calculations faster and easier. 💡
+A simple yet elegant graphical calculator built using Java Swing. It supports basic arithmetic and additional features to help you perform calculations efficiently.
 
-...
-✨ Features
+ Features
+Basic Arithmetic – Addition, subtraction, multiplication, and division.
 
-➕ Basic Arithmetic: Add, subtract, multiply, and divide with ease.
-√ Square Root: Instantly find the square root of any number.
-📊 Percentage: Convert any number into a percentage.
-🔄 Sign Toggle: Switch the sign of a number with +/-.
-🧹 Clear Memory: Press AC to reset the calculator.
-⬅️ Backspace: Delete the last digit or operator with ⌫.
-🔢 Decimal Support: Perform calculations with decimal numbers.
-📱 Responsive Layout: The user interface adapts to different screen sizes for a smooth experience.
+Percentage – Convert values to percentages.
 
-...
-🛠️ How to Use
-Enter Numbers: Click the number buttons (0-9) to input values.
-Perform Calculations: Use the operation buttons ➕, ➖, ✖️, ➗.
-Evaluate: Press = to get the result.
-Find Square Root: Tap √ for the square root.
-Toggle Sign: Use +/- to flip the sign of the number.
-Convert to Percentage: Press % to convert the number.
-Clear All: Tap AC to reset the display.
-Backspace: Press ⌫ to remove the last entry.
-Decimal Point: Click . to add a decimal point.
+Sign Toggle – Switch between positive and negative numbers.
 
-...
-🛠️ How to Build
-Compile: javac Calculator.java
+Clear (AC) – Reset the calculator display.
 
-Run: java Calculator
+Backspace (⌫) – Delete the last input digit or operator.
 
-...
-📜 License
-This project is free to use and open-source. Feel free to explore and use it for all your basic calculation needs! 🚀
+Decimal Support – Perform operations with floating-point numbers.
+
+Responsive Layout – Smooth and adaptive UI for various screen sizes.
+
+ Requirements
+Java Development Kit (JDK) 8 or higher
+
+ Usage Guide
+Action	Button	Description
+Enter Numbers	0-9	Input numeric values
+Add/Subtract/Multiply/Divide	+, -, ×, ÷	Perform basic operations
+Evaluate	=	Display the result
+Toggle Sign	+/-	Flip the sign of the current number
+Convert to Percentage	%	Convert number to a percentage
+Clear All	AC	Reset calculator
+Backspace	⌫	Delete the last digit or operator
+Decimal Point	.	Add a decimal
+
+ License
+This project is open-source and free to use. Feel free to modify and distribute it under the terms of the MIT License.
+
+ Author
+Joyeta Ray
+
+
 
 
 
